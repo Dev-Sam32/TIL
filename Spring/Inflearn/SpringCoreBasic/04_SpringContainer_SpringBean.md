@@ -34,7 +34,7 @@
   }
   ```
 
-  - ```memberService()```,``` orderService()``` -> ```memberRepository()``
+  - ```memberService()```,``` orderService()``` -> ```memberRepository()```
     - 2개의 서비스를 실행 시, 코드상으로는 2개 이상 인스턴스가 생성되어야 하지만 하나의 인스턴스가 생성 됨
       - 스프링이 내부적으로 '싱글톤(Singleton) 패턴'으로 설계해줌
 
@@ -44,13 +44,13 @@
 
     - 스프링 컨테이너 최상위 인터페이스
     - 스프링 빈 관리 및 조회 -> ```getBean()``` 등 Bean 관련 메서드 제공
-
   - ApplicationContext
-
-    - BeanFactory 기능 상속 + 
+  
+    - BeanFactory 기능 상속
       - MessageSorce
       - EnvironmentCapable
       - ApplicationEventPublisher
       - ResourceLoader
+  
 
-    <img src="/Users/Sam/Study/TIL/Spring/Inflearn/SpringCoreBasic/img/image-20230407112816529.png" alt="image-20230407112816529" style="zoom:45%;" />
+  <center><img src="img/image-20230407112816529.png" width="50%" height="50%"></center>
