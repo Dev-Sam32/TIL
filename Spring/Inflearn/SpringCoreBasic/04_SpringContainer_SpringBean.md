@@ -51,6 +51,5 @@
       - EnvironmentCapable
       - ApplicationEventPublisher
       - ResourceLoader
-  
 
   <center><img src="img/image-20230407112816529.png" width="50%" height="50%"></center>
