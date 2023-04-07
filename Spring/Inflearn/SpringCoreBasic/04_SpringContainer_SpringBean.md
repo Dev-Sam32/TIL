@@ -53,4 +53,4 @@
       - ApplicationEventPublisher
       - ResourceLoader
 
-    <img src="/Users/Sam/Library/Application Support/typora-user-images/image-20230407112816529.png" alt="image-20230407112816529" style="zoom:45%;" />
+    <img src="/Users/Sam/Study/TIL/Spring/Inflearn/SpringCoreBasic/img/image-20230407112816529.png" alt="image-20230407112816529" style="zoom:45%;" />
