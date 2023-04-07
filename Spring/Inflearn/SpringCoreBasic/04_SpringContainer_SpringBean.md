@@ -53,4 +53,4 @@
       - ApplicationEventPublisher
       - ResourceLoader
 
-    <img src="/Users/Sam/Study/TIL/Spring/Inflearn/SpringCoreBasic/img/image-20230407112816529.png" alt="image-20230407112816529" style="zoom:45%;" />
+        <center><img src="img/image-20230407112816529.png" width="50%" height="50%"></center>
